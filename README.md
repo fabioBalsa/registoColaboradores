@@ -16,8 +16,8 @@ To be used in a real context, it would need developments adjusted to a Company's
 - File manipulation with laravel resources;
 - Creation of data validation with Form Requests;
 - Taking care of authentication and security with Middleware;
-- Using paginate laravel.
-
+- Using paginate laravel;
+- Using Laravel Debugbar (Integrates PHP Debug Bar).
 
 ## Explanation for modles and tables names
 
