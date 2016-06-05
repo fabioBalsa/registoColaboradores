@@ -40,10 +40,10 @@ Takinf for example the field "c_name_emplo", we can see that the letter "c" iden
   * php artisan migrate
   * php artisan db:seed
   
-+ 4 - Run the following command;
++ 4 - Run the following command:
   * php artisan key:generate
 
-+ 5 - Optional - Laravel Development Server
++ 5 - Optional - Laravel Development Server:
   * php artisan serve
 
 
