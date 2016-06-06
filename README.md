@@ -3,6 +3,8 @@
 This application is a database for employees registration and it's purpose is to show my work in laravel.
 To be used in a real context, it would need developments adjusted to a Company's needs.
 
+It is also used Bootstrap framework for developing responsive.
+
 ## Here's some of laravel resources exploited in this project:
 
 - Creation and configuration of an application on Laravel;
@@ -45,6 +47,8 @@ Takinf for example the field "c_name_emplo", we can see that the letter "c" iden
 
 + 5 - Optional - Laravel Development Server:
   * php artisan serve
+ 
+Fábio Balsa <fabioslbalsa@gmail.com>
 
 
 
